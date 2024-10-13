@@ -14,7 +14,6 @@
 
 **TODO:**
 
-- update the strength table
 | Version | Release Date | CCRL Blitz | CCRL 40/15 |
 |---------|--------------|------------|------------|
 | v1.0    | 2024-01-01   | 3000       | 3050       |
