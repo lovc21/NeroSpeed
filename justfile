@@ -4,5 +4,5 @@ zig-fmt:
 run: zig-fmt
   zig build run
 
-run-test: zig-fmt
-  zig build test --verbose
+test: zig-fmt
+  zig build test --summary all
