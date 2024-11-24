@@ -8,13 +8,14 @@
 
 **TODO:**
 
-- Add a releases info
+- Add releases info
 
 ## Strength
 
 **TODO:**
 
-- update the strength table
+- Update the strength table:
+
 | Version | Release Date | CCRL Blitz | CCRL 40/15 |
 |---------|--------------|------------|------------|
 | v1.0    | 2024-01-01   | 3000       | 3050       |
@@ -25,16 +26,16 @@
 
 **TODO:**
 
-- Add a features
+- Add features
 
-## How to build
+## How to Build
 
 **TODO:**
 
-- Add a how to build section
+- Add a "How to Build" section
 
 ## Thanks and Acknowledgements
 
 **TODO:**
 
-- Add a thanks and acknowledgements part
+- Add a "Thanks and Acknowledgements" section
